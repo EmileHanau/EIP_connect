@@ -1,3 +1,3 @@
-# Welcome to Microblog!
+# EIP Connect
 
-This is an example application featured in my [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world). See the tutorial for instructions on how to work with it.
+This will be a Web-Application aimed to share Epitech Innovation Projects. One should be able to tinder-like select a project that you like :) 
